@@ -1,0 +1,107 @@
+site_name: Snake Game Tutorial
+site_description: Create your own Snake game for LameStation
+site_author: LameStation
+
+repo_name: lamestation/snake
+repo_url: https://github.com/lamestation/snake
+edit_uri: edit/main/docs/
+
+copyright: |
+  Unless otherwise noted, this work is licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: green
+  logo: images/logo.png
+  favicon: images/icon.png
+  features:
+    - navigation.instant
+
+extra_css:
+  - extra.css
+
+plugins:
+  - search
+  - git-revision-date
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lamestation/assembly
+
+nav:
+  - Overview: index.md
+  - "1: Setting Up":
+      - Overview: 1-setting-up/index.md
+      - Instructions: 1-setting-up/instructions.md
+      - Recap: 1-setting-up/recap.md
+      - Review: 1-setting-up/review.md
+      - Code: 1-setting-up/code.md
+  - "2: Humble Beginnings":
+      - Overview: 2-humble-beginnings/index.md
+      - Instructions: 2-humble-beginnings/instructions.md
+      - Recap: 2-humble-beginnings/recap.md
+      - Review: 2-humble-beginnings/review.md
+      - Code: 2-humble-beginnings/code.md
+  - "3: Moving Forward":
+      - Overview: 3-moving-forward/index.md
+      - Instructions: 3-moving-forward/instructions.md
+      - Recap: 3-moving-forward/recap.md
+      - Code: 3-moving-forward/code.md
+  - "4: A New Direction":
+      - Overview: 4-new-direction/index.md
+      - Instructions: 4-new-direction/instructions.md
+      - Recap: 4-new-direction/recap.md
+      - Code: 4-new-direction/code.md
+  - "5: Leading The March":
+      - Overview: 5-leading-the-march/index.md
+      - Instructions: 5-leading-the-march/instructions.md
+      - Code: 5-leading-the-march/code.md
+  - "6: Going Faster":
+      - Overview: 6-going-faster/index.md
+      - Instructions: 6-going-faster/instructions.md
+      - Code: 6-going-faster/code.md
+  - "7: Setting A Goal":
+      - Overview: 7-setting-a-goal/index.md
+      - Instructions: 7-setting-a-goal/instructions.md
+      - Code: 7-setting-a-goal/code.md
+  - "8: Don't Step On Me":
+      - Overview: 8-dont-step-on-me/index.md
+      - Instructions: 8-dont-step-on-me/instructions.md
+      - Code: 8-dont-step-on-me/code.md
+  - Quiz: quiz/index.md
+  - Challenge:
+      - Overview: challenge/index.md
+      - Instructions: challenge/instructions.md
+      - Submissions: challenge/submissions.md
