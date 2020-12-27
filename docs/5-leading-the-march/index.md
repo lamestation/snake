@@ -1,6 +1,8 @@
 # Section 5: Leading The March
 
-![](images/leading-the-march.jpg)
+<figure>
+    <img src="images/leading-the-march.jpg" />
+</figure>
 
 In Snake, for every frame, the snake moves forward one pixel, with each
 pixel following after it.

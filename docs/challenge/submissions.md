@@ -1,6 +1,6 @@
 # Submissions
 
-### How to submit your work
+## How to submit your work
 
 1.  Open your game in PropellerIDE.
 

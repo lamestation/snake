@@ -62,43 +62,58 @@ extra:
 
 nav:
   - Overview: index.md
-  - "1: Setting Up":
+  - "Section 1: Setting Up":
       - Overview: 1-setting-up/index.md
-      - Instructions: 1-setting-up/instructions.md
+      - 1-setting-up/1-using-templates.md
+      - 1-setting-up/2-whats-inside.md
       - Recap: 1-setting-up/recap.md
       - Review: 1-setting-up/review.md
       - Code: 1-setting-up/code.md
-  - "2: Humble Beginnings":
+  - "Section 2: Humble Beginnings":
       - Overview: 2-humble-beginnings/index.md
-      - Instructions: 2-humble-beginnings/instructions.md
+      - 2-humble-beginnings/1-create-image.md
+      - 2-humble-beginnings/2-draw-image.md
+      - 2-humble-beginnings/3-draw-screen.md
       - Recap: 2-humble-beginnings/recap.md
       - Review: 2-humble-beginnings/review.md
       - Code: 2-humble-beginnings/code.md
-  - "3: Moving Forward":
+  - "Section 3: Moving Forward":
       - Overview: 3-moving-forward/index.md
-      - Instructions: 3-moving-forward/instructions.md
+      - 3-moving-forward/1-global-positioning.md
+      - 3-moving-forward/2-correct-the-dots.md
+      - 3-moving-forward/3-if-you-say-so.md
+      - 3-moving-forward/4-feeling-loopy.md
+      - 3-moving-forward/5-put-a-lid-on-it.md
       - Recap: 3-moving-forward/recap.md
       - Code: 3-moving-forward/code.md
-  - "4: A New Direction":
+  - "Section 4: A New Direction":
       - Overview: 4-new-direction/index.md
-      - Instructions: 4-new-direction/instructions.md
+      - 4-new-direction/1-left-and-right.md
+      - 4-new-direction/2-no-u-turn.md
+      - 4-new-direction/3-starting-off-right.md
       - Recap: 4-new-direction/recap.md
       - Code: 4-new-direction/code.md
-  - "5: Leading The March":
+  - "Section 5: Leading The March":
       - Overview: 5-leading-the-march/index.md
-      - Instructions: 5-leading-the-march/instructions.md
+      - 5-leading-the-march/1-maximum-snake.md
+      - 5-leading-the-march/2-how-much-is-too-much.md
+      - 5-leading-the-march/3-lining-them-up.md
+      - 5-leading-the-march/4-growing-up-fast.md
       - Code: 5-leading-the-march/code.md
-  - "6: Going Faster":
+  - "Section 6: Going Faster":
       - Overview: 6-going-faster/index.md
-      - Instructions: 6-going-faster/instructions.md
+      - 6-going-faster/1-need-for-speed.md
+      - 6-going-faster/2-wait-for-me.md
       - Code: 6-going-faster/code.md
-  - "7: Setting A Goal":
+  - "Section 7: Setting A Goal":
       - Overview: 7-setting-a-goal/index.md
-      - Instructions: 7-setting-a-goal/instructions.md
+      - 7-setting-a-goal/1-new-graphics.md
+      - 7-setting-a-goal/2-random-food.md
+      - 7-setting-a-goal/3-lets-eat.md
       - Code: 7-setting-a-goal/code.md
-  - "8: Don't Step On Me":
+  - "Section 8: Don't Step On Me":
       - Overview: 8-dont-step-on-me/index.md
-      - Instructions: 8-dont-step-on-me/instructions.md
+      - 8-dont-step-on-me/1-no-crossing.md
       - Code: 8-dont-step-on-me/code.md
   - Quiz: quiz/index.md
   - Challenge:

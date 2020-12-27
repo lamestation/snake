@@ -1,6 +1,8 @@
 # Quiz
 
-![](images/quiz.jpg)
+<figure>
+    <img src="images/quiz.jpg" />
+</figure>
 
 1.  What is LameLCD? What is LameGFX?
 
@@ -10,7 +12,7 @@
 
 1.  In this tutorial, we used the following command to draw the snake’s head:
 
-    ```
+    ```spin
     gfx.Sprite(@dot_gfx, snakex[0], snakey[0], 0)
     ```
 

@@ -1,6 +1,8 @@
 # Section 4: A New Direction
 
-![](images/new-direction.jpg)
+<figure>
+    <img src ="images/new-direction.jpg" />
+</figure>
 
 In the last section, we got the dot to move around the screen based on
 our joystick input, and prevented it from going outside the screen.

@@ -4,9 +4,9 @@ In this section, you learned how to:
 
 - Position graphics on the screen
 
-- Use `IF` statements for conditional logic
+- Use `if` statements for conditional logic
 
-- Use `REPEAT` to loop through blocks of code
+- Use `repeat` to loop through blocks of code
 
 - Use `gfx.Clear` to clear the screen before drawing
 

@@ -1,6 +1,8 @@
 # Section 6: Going Faster
 
-![](images/going-faster.jpg)
+<figure>
+    <img src="images/going-faster.jpg" />
+</figure>
 
 During the last exercise, you found that as the length of your snake
 increased, your game actually slowed down. _A lot_.

@@ -1,6 +1,8 @@
 # Section 2: Humble Beginnings
 
-![](images/humble-beginnings.jpg)
+<figure>
+    <img src="images/humble-beginnings.jpg" />
+</figure>
 
 Last time, we showed you how to set up a basic Spin template, but you
 still haven't seen it do anything.

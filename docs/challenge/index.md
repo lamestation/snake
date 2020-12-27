@@ -1,6 +1,8 @@
 # Challenge
 
-![](images/challenge.jpg)
+<figure>
+    <img src="images/challenge.jpg" />
+</figure>
 
 We have now completed the game! You can play the officially finished
 version at `/tutorials/Snake/Snake.spin`.
