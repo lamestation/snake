@@ -7,7 +7,7 @@ MD_FILES = $(patsubst %.xml,%.md,$(XML_FILES))
 all: $(MD_FILES)
 
 %.xml: %.adoc
-	asciidoctor -b docbook -o $@ $^	
+	asciidoctor -b docbook -o $@ $^
 
 %.md: %.xml
 	pandoc -f docbook -t markdown -o $@ $^
