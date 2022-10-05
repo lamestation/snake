@@ -9,4 +9,4 @@ Make your own Snake game for the LameStation!
 
 ## Documentation
 
-View the [live tutorial](https://lamestation-snake.netlify.app/).
+View the [live tutorial](https://snake.docs.lamestation.org/).
