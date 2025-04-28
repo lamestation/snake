@@ -12,8 +12,9 @@ copyright: |
 theme:
   name: material
   palette:
-    scheme: default
+    scheme: slate
     primary: green
+    accent: green
   logo: images/logo.png
   favicon: images/icon.png
   features:
